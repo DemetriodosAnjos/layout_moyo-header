@@ -24,7 +24,7 @@ header {
 /* Container central */
 .header-container {
   width: 1200px;
-  height: 100%;
+  height: 60px
   padding: 0 50px;
   display: flex;
   align-items: center;
